@@ -1,4 +1,4 @@
 # Calendar
 Daily Calendar 
 Demo link:- https://codepen.io/yashsu/pen/RwBLRMY
-<img src= "https://github.com/YASHSU/Year-Countdown/blob/main/Screenshot%20(2).png" alt="Calendar">
+<img src= "https://github.com/YASHSU/Calendar/blob/main/Screenshot%20(6).png" alt="Calendar">
